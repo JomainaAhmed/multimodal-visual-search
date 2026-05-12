@@ -57,7 +57,7 @@ When a user submits a natural language query, the application takes the input an
 ## Installation
 1. Clone the repository
 ```commandline
-git clone https://github.com/abinthomasonline/clip-faiss.git
+git clone https://github.com/JomainaAhmed/multimodal-visual-search
 ```
 2. Install the required packages
 ```commandline
